@@ -1,5 +1,5 @@
 x=10
-y=Function Practice
+y="Function Practice"
 
 echo x - $x
 echo y - ${y}
