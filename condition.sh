@@ -1,5 +1,5 @@
-currency=$2
+currency=$1
 if [ "$currency" == "usd" ]; then
-  inr=$(($1 * 85))
+  inr=$(($2 * 85))
   echo "Amount in rupees is = $inr"
 fi
