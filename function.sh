@@ -2,4 +2,4 @@ x=10
 y=Function Practice
 
 echo x - $x
-echo y - ${x}
+echo y - ${y}
