@@ -1,5 +1,5 @@
 x = 10
-y = 20
+y = Function Practice
 
-echo x -$x
-echo y -${x}
+echo x - $x
+echo y - ${x}
