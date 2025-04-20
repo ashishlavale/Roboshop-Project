@@ -3,5 +3,7 @@ y="Function Practice"
 
 echo x - $x
 echo y - ${y}
+z=$2
 echo z - $z
+n=$1
 echo n - $n
